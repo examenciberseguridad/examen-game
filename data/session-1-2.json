@@ -1,0 +1,296 @@
+{
+  "id": "session-1-2",
+  "title": "Asegurar mis dispositivos",
+  "description": "Protección de dispositivos, vectores de amenaza, cifrado y medidas de mitigación.",
+  "icon": "📱",
+  "levels": {
+    "facil": {
+      "label": "Fácil",
+      "color": "#22c55e",
+      "pointsPerQuestion": 10,
+      "timePerQuestion": 30,
+      "questions": [
+        {
+          "id": "f1",
+          "question": "En el contexto de ciberseguridad, ¿qué se considera un dispositivo?",
+          "options": [
+            "Solo computadoras de escritorio",
+            "Solo teléfonos móviles y tabletas",
+            "Todo lo que pueda conectarse a otra cosa, desde teléfonos hasta USB y asistentes del hogar",
+            "Solo equipos que tienen pantalla"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "f2",
+          "question": "¿Cuál de los siguientes es un ejemplo de dispositivo según el contenido?",
+          "options": [
+            "Un libro de texto",
+            "Una unidad USB",
+            "Un cuaderno de notas",
+            "Un bolígrafo digital sin conexión"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "f3",
+          "question": "¿Por qué los dispositivos son objetivo de los ciberdelincuentes?",
+          "options": [
+            "Porque son caros de fabricar",
+            "Porque acceden y almacenan datos personales y empresariales valiosos",
+            "Porque tienen colores llamativos",
+            "Porque están hechos de materiales reciclables"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "f4",
+          "question": "¿Qué es el cifrado?",
+          "options": [
+            "Un proceso que elimina archivos del dispositivo",
+            "Un proceso que convierte información en datos ininteligibles que solo se pueden leer con una clave",
+            "Un programa para acelerar el dispositivo",
+            "Un tipo de virus informático"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "f5",
+          "question": "¿Cuál es una medida básica para proteger un dispositivo?",
+          "options": [
+            "Nunca encenderlo",
+            "Asegurarse de que tiene las actualizaciones de seguridad más recientes",
+            "Compartir la contraseña con compañeros",
+            "Desinstalar el antivirus"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "f6",
+          "question": "¿Qué deberías hacer cuando te alejas de tu computadora de trabajo?",
+          "options": [
+            "Dejar la sesión abierta para ahorrar tiempo",
+            "Bloquear el dispositivo",
+            "Apagar la pantalla pero dejar todo abierto",
+            "Pedirle a un compañero que vigile"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "f7",
+          "question": "¿Qué tipo de información recopilan los dispositivos sobre nosotros?",
+          "options": [
+            "Solo nuestro nombre",
+            "Ubicación, sitios web visitados, tiempo de navegación y más",
+            "Solo el número de teléfono",
+            "Ninguna información personal"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "f8",
+          "question": "¿Qué método de autenticación usa características físicas del usuario, como la huella digital?",
+          "options": [
+            "Contraseña",
+            "PIN",
+            "Biometría",
+            "Pregunta secreta"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    "medio": {
+      "label": "Medio",
+      "color": "#f59e0b",
+      "pointsPerQuestion": 20,
+      "timePerQuestion": 25,
+      "questions": [
+        {
+          "id": "m1",
+          "question": "¿Qué es el jailbreaking de un dispositivo?",
+          "options": [
+            "Actualizar el sistema operativo de forma oficial",
+            "Encontrar formas no oficiales de obtener acceso total a los sistemas principales del dispositivo, eliminando medidas de seguridad",
+            "Instalar un antivirus más potente",
+            "Cambiar la carcasa del dispositivo"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "m2",
+          "question": "¿Qué sucede cuando malware como puertas traseras se instala en un dispositivo?",
+          "options": [
+            "Se elimina automáticamente al actualizar el dispositivo",
+            "Puede persistir incluso después de actualizar el dispositivo",
+            "Solo afecta al fondo de pantalla",
+            "Mejora el rendimiento del equipo"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "m3",
+          "question": "Un ciberdelincuente coloca software malintencionado en la tienda de aplicaciones de un asistente para el hogar. ¿Qué tipo de ataque podría realizar?",
+          "options": [
+            "Solo cambiar el idioma del dispositivo",
+            "Instalar spyware para grabar información secretamente y moverse a otros dispositivos del hogar",
+            "Mejorar la calidad del sonido",
+            "Actualizar el firmware del dispositivo"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "m4",
+          "question": "¿Qué principio de seguridad (CIA) se compromete cuando un ransomware bloquea los datos de una USB?",
+          "options": [
+            "Solo confidencialidad",
+            "Solo integridad",
+            "Disponibilidad, porque los datos están bloqueados",
+            "Ninguno de los tres"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "m5",
+          "question": "¿Por qué conectar un dispositivo sin actualizar a una zona Wi-Fi pública es peligroso?",
+          "options": [
+            "Porque el Wi-Fi es siempre lento",
+            "Porque los atacantes conocen las vulnerabilidades comunes de dispositivos sin actualizar y pueden obtener acceso no autorizado",
+            "Porque el dispositivo se apaga automáticamente",
+            "Porque la batería se agota más rápido"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "m6",
+          "question": "¿Qué es la protección de dispositivos (device hardening)?",
+          "options": [
+            "Ponerle una funda resistente al dispositivo",
+            "Minimizar la posibilidad de que se aprovechen las vulnerabilidades del dispositivo",
+            "Aumentar el brillo de la pantalla",
+            "Desconectar el dispositivo de Internet permanentemente"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "m7",
+          "question": "¿Qué sucede si alguien usa tus aplicaciones desde tu dispositivo desbloqueado?",
+          "options": [
+            "No puede hacer nada sin tu contraseña",
+            "Las acciones se registran a tu nombre, y tú enfrentarías las consecuencias",
+            "El sistema detecta automáticamente que no eres tú",
+            "Las aplicaciones se cierran solas"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "m8",
+          "question": "¿Qué pueden hacer los ciberdelincuentes al comprometer la confidencialidad de un dispositivo?",
+          "options": [
+            "Solo cambiar el fondo de pantalla",
+            "Ver o modificar datos confidenciales almacenados localmente sin conocimiento del usuario",
+            "Mejorar la velocidad del dispositivo",
+            "Solo acceder a juegos instalados"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    "dificil": {
+      "label": "Difícil",
+      "color": "#ef4444",
+      "pointsPerQuestion": 30,
+      "timePerQuestion": 20,
+      "questions": [
+        {
+          "id": "d1",
+          "question": "Kayla descarga una app aparentemente legítima en su tableta. La app filtra datos confidenciales sin que ella lo sepa. ¿Qué principios de seguridad se comprometieron y por qué?",
+          "options": [
+            "Solo disponibilidad, porque la app usa batería",
+            "Confidencialidad e integridad, porque el ciberdelincuente puede ver y modificar los datos sin autorización",
+            "Solo integridad, porque los datos se modificaron",
+            "Ninguno, porque la app se descargó voluntariamente"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "d2",
+          "question": "Un empleado hace jailbreak a su teléfono corporativo para personalizar la interfaz. ¿Cuál es el riesgo principal?",
+          "options": [
+            "El teléfono se vuelve más lento",
+            "Se sortean las medidas de seguridad del dispositivo, dando oportunidad a ciberdelincuentes de instalar software malicioso o dar instrucciones falsas",
+            "La batería se desgasta más rápido",
+            "Solo cambia la apariencia visual sin riesgo"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "d3",
+          "question": "Un atacante infecta un dispositivo con malware en un Wi-Fi de aeropuerto. El usuario conecta luego el dispositivo a la red de su empresa. ¿Qué describe mejor esta secuencia de ataque?",
+          "options": [
+            "Ataque directo a la red empresarial",
+            "El dispositivo se convirtió en vector de amenaza: fue comprometido por una vulnerabilidad en red pública y luego propagó el malware a la red corporativa",
+            "Solo un ataque al Wi-Fi del aeropuerto",
+            "Un ataque de ingeniería social al empleado"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "d4",
+          "question": "Una empresa implementa cifrado en todos sus dispositivos de almacenamiento. ¿Qué amenaza específica mitiga esto?",
+          "options": [
+            "Que los dispositivos se conecten a Wi-Fi lento",
+            "Que si un dispositivo es robado o comprometido, los datos no puedan ser leídos sin la clave de descifrado, manteniendo la confidencialidad",
+            "Que los empleados olviden sus contraseñas",
+            "Que los dispositivos se queden sin batería"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "d5",
+          "question": "Un ciberdelincuente instala una puerta trasera en un dispositivo que persiste incluso después de actualizarlo. El usuario conecta el dispositivo a su red doméstica. ¿Qué combinación de amenazas se presenta?",
+          "options": [
+            "Solo ransomware en el dispositivo",
+            "Malware persistente que puede propagarse lateralmente a otros dispositivos de la red doméstica, comprometiendo múltiples sistemas",
+            "Solo un virus temporal que se elimina con reiniciar",
+            "Un ataque que solo afecta la velocidad del internet"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "d6",
+          "question": "Un empleado deja su laptop desbloqueada mientras va por café. Alguien descarga datos confidenciales a una USB. ¿Qué medidas habrían prevenido este incidente?",
+          "options": [
+            "Solo tener antivirus instalado",
+            "Bloquear el dispositivo al alejarse y requerir PIN o biometría para desbloquearlo",
+            "Tener una contraseña de Wi-Fi más fuerte",
+            "Usar un monitor más pequeño para que nadie vea"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "d7",
+          "question": "¿Por qué los dispositivos de asistencia para el hogar 'siempre activos' representan un riesgo especial de ciberseguridad comparados con otros dispositivos?",
+          "options": [
+            "Porque son más caros que otros dispositivos",
+            "Porque siempre están escuchando u observando, un atacante con spyware podría grabar información continuamente y moverse lateralmente a otros dispositivos de la red",
+            "Porque consumen más electricidad",
+            "Porque no se pueden apagar nunca"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "d8",
+          "question": "Una organización quiere implementar una estrategia integral de protección de dispositivos. ¿Cuál combinación de medidas es la más completa?",
+          "options": [
+            "Solo instalar antivirus en las computadoras",
+            "Actualizaciones automáticas + cifrado de disco + autenticación biométrica + políticas de bloqueo de pantalla + firewall habilitado",
+            "Solo cambiar contraseñas cada mes",
+            "Solo usar Wi-Fi con contraseña"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  }
+}
